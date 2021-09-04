@@ -1,0 +1,14 @@
+C:\Users\pablo\Cursostrem\calculaIMC\calculaIMC\bin\Debug\netcoreapp3.1\calculaIMC.exe
+C:\Users\pablo\Cursostrem\calculaIMC\calculaIMC\bin\Debug\netcoreapp3.1\calculaIMC.deps.json
+C:\Users\pablo\Cursostrem\calculaIMC\calculaIMC\bin\Debug\netcoreapp3.1\calculaIMC.runtimeconfig.json
+C:\Users\pablo\Cursostrem\calculaIMC\calculaIMC\bin\Debug\netcoreapp3.1\calculaIMC.runtimeconfig.dev.json
+C:\Users\pablo\Cursostrem\calculaIMC\calculaIMC\bin\Debug\netcoreapp3.1\calculaIMC.dll
+C:\Users\pablo\Cursostrem\calculaIMC\calculaIMC\bin\Debug\netcoreapp3.1\calculaIMC.pdb
+C:\Users\pablo\Cursostrem\calculaIMC\calculaIMC\obj\Debug\netcoreapp3.1\calculaIMC.csproj.AssemblyReference.cache
+C:\Users\pablo\Cursostrem\calculaIMC\calculaIMC\obj\Debug\netcoreapp3.1\calculaIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Cursostrem\calculaIMC\calculaIMC\obj\Debug\netcoreapp3.1\calculaIMC.AssemblyInfoInputs.cache
+C:\Users\pablo\Cursostrem\calculaIMC\calculaIMC\obj\Debug\netcoreapp3.1\calculaIMC.AssemblyInfo.cs
+C:\Users\pablo\Cursostrem\calculaIMC\calculaIMC\obj\Debug\netcoreapp3.1\calculaIMC.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Cursostrem\calculaIMC\calculaIMC\obj\Debug\netcoreapp3.1\calculaIMC.dll
+C:\Users\pablo\Cursostrem\calculaIMC\calculaIMC\obj\Debug\netcoreapp3.1\calculaIMC.pdb
+C:\Users\pablo\Cursostrem\calculaIMC\calculaIMC\obj\Debug\netcoreapp3.1\calculaIMC.genruntimeconfig.cache
